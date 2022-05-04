@@ -1,0 +1,33 @@
+.dotted p {
+    border-style: dotted;
+}
+.dashed p {
+    border-style: dashed;
+}
+.solid p {
+    border-style: solid;
+}
+.double p{
+    border-style: double;
+}
+.groove p{
+    border-style: groove;
+}
+.ridge p{
+    border-style: ridge;
+}
+.inset p {
+    border-style: inset;
+}
+.outset p{
+    border-style: outset;
+}
+.none p {
+    border-style: none;
+}
+.hidden p{
+    border-style: hidden;
+}
+.mix p{
+    border-style: dotted dashed double solid groove ridge;
+}
