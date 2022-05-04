@@ -2,6 +2,8 @@
     border-style: dotted;
     border-style: 25px 100px 200px;
     border-color: brown;
+    border-top-style: solid;
+    border-bottom-style: solid;
 }
 .dashed p {
     border-style: dashed;
@@ -36,4 +38,8 @@
 }
 .mix p{
     border-style: dotted dashed double solid groove ridge;
+}
+.Test p{
+    border-bottom-style: solid;
+    border-bottom-color: brown;
 }
